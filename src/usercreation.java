@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author JAGDISH PATIL
+ * @author LUCKY KALAL
  */
 public class usercreation extends javax.swing.JFrame {
 

@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author JAGDISH PATIL
+ * @author LUCKY KALAL
  */
 public class ticketreport extends javax.swing.JFrame {
 
